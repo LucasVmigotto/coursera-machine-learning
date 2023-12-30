@@ -1,6 +1,6 @@
-# template-datascience
+# coursera-machine-learning
 
-Template for Data Science, Machine Learning and Deep Learning projects
+Repository for projects of DeepLearning.AI Machine Learning Specialization in Coursera
 
 ## Summary
 
